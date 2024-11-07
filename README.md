@@ -7,3 +7,5 @@ CMOS D flip flops are first preference to implement different type of binary cou
 
 ![image](https://github.com/user-attachments/assets/752271a2-3afd-43b0-987e-4447b96ce367)
 
+# Circuit Diagram of the D Flip Flop 
+![image](https://github.com/user-attachments/assets/2e5de739-f3b7-41db-ae60-453ad03eeb97)
