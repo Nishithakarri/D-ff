@@ -5,3 +5,4 @@ CMOS D flip flops are first preference to implement different type of binary cou
 
 # Block Diagram of the D Flip Flop IP
 
+![1ima](https://github.com/user-attachments/assets/af2a0342-d30e-418e-9ee0-2cb4cb1d699a)
