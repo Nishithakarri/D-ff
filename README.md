@@ -1,5 +1,5 @@
 # D FLIP FLOP USING CMOSD FLIP FLOP USING CMOS 130nm Technology
-This project simulates the designed D Flip Flop using CMOS circuit to determine its performance characteristics pre layout and post layout
+This project simulates the designed D Flip Flop using CMOS 130nm technology circuit to determine its performance characteristics pre layout and post layout
 # Contents
 * [A Glance at the D Flip Flop IP]()  <br>
 * [Block Diagram of the D Flip Flop IP]() <br>
