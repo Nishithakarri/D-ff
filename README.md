@@ -3,7 +3,7 @@ This project simulates the designed D Flip Flop using CMOS circuit to determine 
 # A Glance at the D Flip Flop IP
 CMOS D flip flops are first preference to implement different type of binary counters, shift registers and analog and digital circuit system.The TSPC logic which allows to represent the design of D flip flop with smaller area and lower power consumption as compared to master-slave configuration based D flip flop.Delay flip flops stores whatever input pattern in its D input. So it is helpful to process the data bit by bit to get solutions for complex functions. It is known as Data flip flop since it can store data.
 # Block Diagram of the D Flip Flop IP
-![image](https://github.com/user-attachments/assets/752271a2-3afd-43b0-987e-4447b96ce367)
+![BLOCKDIAGRAM](https://github.com/user-attachments/assets/103cc96e-7234-4735-85e2-661b00a10fd6)
 # Circuit Diagram of the D Flip Flop 
 ![image](https://github.com/user-attachments/assets/2e5de739-f3b7-41db-ae60-453ad03eeb97)
 # Performance parameters
