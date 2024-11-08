@@ -1,0 +1,22 @@
+* C:\Users\illas\eSim-Workspace\dff_cmos\dff_cmos.cir
+
+ .lib "sky130_fd_pr/models/sky130.lib.spice" tt
+
+
+xM3  Net-_M1-Pad1_ clk Net-_M3-Pad3_ GND sky130_fd_pr__nfet_01v8 w=0.42 l=0.5
+xM1  Net-_M1-Pad1_ din vdd vdd sky130_fd_pr__pfet_01v8 w=1 l=0.5		
+xM2  dout Net-_M1-Pad1_ vdd vdd sky130_fd_pr__pfet_01v8 w=1 l=0.5	
+xM4  Net-_M3-Pad3_ din GND GND sky130_fd_pr__nfet_01v8 w=0.42 l=0.5
+xM5  dout Net-_M3-Pad3_ GND GND sky130_fd_pr__nfet_01v8 w=0.42 l=0.5
+	
+Vdd vdd 0 5
+Vd0 clk 0 pulse(0 5 100ps 50ps 50ps 200ps 500ps)
+Vd1 din 0 pulse(0 5 100ps 50ps 50ps 200ps 500ps)
+.tran 3ps 600ps
+.control
+run
+plot v(dout) v(din)+ 8 v(clk)+16
+print power
+.endc
+
+.end
