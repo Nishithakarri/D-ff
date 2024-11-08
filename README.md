@@ -89,13 +89,13 @@ rise and fall time dealy
 * karri Nishitha
   
 # acknowledgments
-* Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
-* Sumanto kar, Assistant Project Manager, FOSSEE
+* Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.<br>
+* Sumanto kar, Assistant Project Manager, FOSSEE<br>
 
 # Contact Information
-Karri Nishitha  Student, JNTU-GV CEV nishithakarri0@gmail.com
-Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
-Sumanto kar, Assistant Project Manager, FOSSEE
+Karri Nishitha  Student, JNTU-GV CEV nishithakarri0@gmail.com <br>
+Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com<br>
+Sumanto kar, Assistant Project Manager, FOSSEE<br>
 
 
 
