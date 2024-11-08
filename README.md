@@ -9,9 +9,9 @@ This project simulates the designed D Flip Flop using CMOS circuit to determine 
 * [ Installing esim ]() <br>
 * [Schenatic and Simulation]()<br>
 * [Running the ngspice circuit]()<br>
+* [simulation]()<br>
 * [contributors]()<br>
 * [acknowledgments]()<br>
-
 
 # A Glance at the D Flip Flop IP
 CMOS D flip flops are first preference to implement different type of binary counters, shift registers and analog and digital circuit system.The TSPC logic which allows to represent the design of D flip flop with smaller area and lower power consumption as compared to master-slave configuration based D flip flop.Delay flip flops stores whatever input pattern in its D input. So it is helpful to process the data bit by bit to get solutions for complex functions. It is known as Data flip flop since it can store data.
@@ -22,11 +22,11 @@ CMOS D flip flops are first preference to implement different type of binary cou
 # Performance parameters
 | Parameter | Description | Min| Type | Max | Unit | Condition |
 |--------|--------|--------|--------|--------|--------|--------|
-| Propagation Delay | | 16 | 22| 36 | us | T=|
-| leakage power |  | 23 | 38 | 52| pW| T= |
-| power dissipation | | 8 | 14 | 23 | uW | T=|
+| Propagation Delay |time taken by the change in output when input is raise 50% | 16 | 22| 36 | us | T=27C|
+| leakage power | power lost during opeartion | 23 | 38 | 52| pW| T=27C |
+| power dissipation | energy consumed | 8 | 14 | 23 | uW | T=27C|
 |  VDD | Supply Voltage | 1.8 | 5| 12 | V | T=27C |
-| leakage current | | 2.8 | 3.6 | 5.3 | uA| T=|
+| leakage current | current  loss when no transaction occur | 2.8 | 3.6 | 5.3 | uA| T=27C|
 # Open source tools used
 # esim
 eSim (previously known as Oscad / FreeEDA) is a free/libre and open source EDA tool for circuit design, simulation, analysis and PCB design.
@@ -66,6 +66,7 @@ Step5. Go to the FOSSEE folder search for Ngspice. Run it.<br>
 # simulation 
 
 The input and oupt waveforms of the D FLIP FLOP using 130nm technology
+![F2](https://github.com/user-attachments/assets/e46200d0-4130-4c78-a838-144c0d280408)
 ![dff waveforms](https://github.com/user-attachments/assets/4dbd7891-7e2b-4946-9740-6ce4b71d8412)
 
 progapagation delay
