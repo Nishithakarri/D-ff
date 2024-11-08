@@ -3,14 +3,14 @@ This project simulates the designed D Flip Flop using CMOS circuit to determine 
 # Contents
 [A Glance at the D Flip Flop IP]()  <br>
 [Block Diagram of the D Flip Flop IP]() <br>
-[Circuit Diagram of the D Flip Flop]()
-[ Performance parameters]()
-[ Open source tools used]()
-[ Installing esim ]()
-[Schenatic and Simulation]()
-[Running the ngspice circuit]()
-[contributors]()
-[acknowledgments]()
+[Circuit Diagram of the D Flip Flop]()<br>
+[ Performance parameters]()<br>
+[ Open source tools used]()<br>
+[ Installing esim ]() <br>
+[Schenatic and Simulation]()<br>
+[Running the ngspice circuit]()<br>
+[contributors]()<br>
+[acknowledgments]()<br>
 
 
 # A Glance at the D Flip Flop IP
