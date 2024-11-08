@@ -43,7 +43,7 @@ https://github.com/google/skywater-pdk
 * Now double click on eSim installer and then follow the instruction to install eSim.
 * After the installation is completed, please download and add the following file to the esim home directory(FOSSEE\eSim\ folder):  https://github.com/FOSSEE/eSim/blob/master/src/frontEnd/TerminalUi.ui#L6
 * Please download and add the following executable to the nghdl folder(FOSSEE\eSim\nghdl\src location):https://drive.google.com/file/d/17MNCCq9cG6A7fnIH-4KMUMY-yb4rW9s4/view?usp=sharing
-# Schenatic and Simulation
+# Schematic and Simulation
 * open the esim and create a new project.<br>
 * create the the schematic of your circuit using the esim_nmos and esim_pmos avaliable in the esim_library.<br>
 * connect the components as per the design and annotate it using esim_annotation this gives the names to the each component in the schematic.<br>
