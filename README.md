@@ -51,13 +51,18 @@ Step3. Browse for the ngspice.<br>
 Step4. If ngspice is not present scroll down click on More Apps. <br>
 Step5. Go to the FOSSEE folder search for Ngspice. Run it.<br>
 # simulation 
-
+The input and oupt waveforms of the D FLIP FLOP using 130nm technology
+![dff waveforms](https://github.com/user-attachments/assets/4dbd7891-7e2b-4946-9740-6ce4b71d8412)
+progapagation delay
+![rise and fall delay](https://github.com/user-attachments/assets/e91a031d-58f0-4028-bf21-44efd11f9305)
+rise and fall time dealy 
+![rise and fall delay](https://github.com/user-attachments/assets/38c0edf9-3e76-41c9-afdb-f6058c95b975)
 # contributors
 * karri Nishitha
 # acknowledgments
 * Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
 * Sumanto kar, Assistant Project Manager, FOSSEE
-
+* Ashok velugoti
 
 
 
