@@ -50,6 +50,7 @@ Step2. Click on Open With <br>
 Step3. Browse for the ngspice.<br>
 Step4. If ngspice is not present scroll down click on More Apps. <br>
 Step5. Go to the FOSSEE folder search for Ngspice. Run it.<br>
+# simulation 
 
 # contributors
 * karri Nishitha
