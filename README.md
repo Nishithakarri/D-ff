@@ -33,6 +33,8 @@ CMOS D flip flops are first preference to implement different type of binary cou
 # esim
 eSim (previously known as Oscad / FreeEDA) is a free/libre and open source EDA tool for circuit design, simulation, analysis and PCB design.
 It is an integrated tool built using free/libre and open source software such as KiCad, Ngspice and GHDL.
+https://esim.fossee.in/home
+
 # ngspice
 ngspice is the open source spice simulator for electric and electronic circuits.
 http://ngspice.sourceforge.net/
